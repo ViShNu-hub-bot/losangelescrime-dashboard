@@ -23,7 +23,7 @@ This dashboard utilizes a comprehensive dataset sourced from Kaggle to analyze c
 
 ## Preview
 
-![Los Angeles Crime Dashboard Preview](preview_image.png)
+![Los Angeles Crime Dashboard Preview](Screenshot%20(125).png)
 
 ## Contact
 
